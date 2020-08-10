@@ -8,7 +8,7 @@
     "test": "jest --silent --verbose",
     "test:coverage": "jest --silent --verbose --coverage",
     "test:watch": "jest --watch",
-    "build": "tsc",
+    "build": "tsc --watch",
     "lint": "tslint -p tsconfig.json",
     "prepare": "npm run build",
     "prepublish": "npm test && npm run lint",
