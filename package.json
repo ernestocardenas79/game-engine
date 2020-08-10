@@ -1,6 +1,6 @@
 {
-  "name": "@runox-game/game-engine",
-  "version": "0.0.19",
+  "name": "@runoxel/game-engine",
+  "version": "0.0.0",
   "description": "RunoX game engine",
   "main": "lib/game-engine.js",
   "types": "lib/game-engine.d.ts",
@@ -28,10 +28,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/runox-game/game-engine.git"
+    "url": "git+https://github.com/ernestocardenas79/game-engine.git"
   },
   "bugs": {
-    "url": "https://github.com/runox-game/game-engine/issues"
+    "url": "https://github.com/ernestocardenas79/game-engine/issues"
   },
   "author": "",
   "license": "ISC",
